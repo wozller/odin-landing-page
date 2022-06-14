@@ -1,0 +1,18 @@
+#header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto 128px;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    list-style: none;
+}
+
+#nav .nav-item a {
+    text-decoration: none;
+}
