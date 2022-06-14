@@ -16,3 +16,13 @@
 #nav .nav-item a {
     text-decoration: none;
 }
+
+#sign-up {
+    display: flex;
+    gap: 48px;
+    margin: auto 128px;
+}
+
+#sign-up .right-side img {
+    width: 350px;
+}
